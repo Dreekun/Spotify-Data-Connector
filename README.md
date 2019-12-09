@@ -31,7 +31,9 @@ Now you can open and extract the Spotify_Connector.mez file with winrar, edit th
 Create a new folder under C:\Users\username\Documents\Power BI Desktop\Custom Connectors and paste the connector.mez file.
 
 ## Step 5: Get the Power BI Template for this connector
-This is a very simple report with a built-in Data Model, all queries available set up, a few measures, and a report to give a first view of you can analyse here.
+This is a very simple report with a built-in Data Model, with all queries available set up, a few measures, and a report to give a first view of you can analyse here.
+![report I](https://user-images.githubusercontent.com/34665357/70461416-823fb180-1ab0-11ea-95a1-b63586c5a4fb.png)
+
 
 ## Step 6: Read the Documentation
 In order for this connector to be useful, there are a few workarounds and solutions to common problems you may face, in the documents provided above. Please read it, and feel free to contact me in case you need any help.

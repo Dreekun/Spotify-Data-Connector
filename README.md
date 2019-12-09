@@ -33,5 +33,5 @@ Create a new folder under C:\Users\username\Documents\Power BI Desktop\Custom Co
 ## Step 5: Get the Power BI Template for this connector
 This is a very simple report with a built-in Data Model, all queries available set up, a few measures, and a report to give a first view of you can analyse here.
 
-## Step 6: Read the documentation
+## Step 6: Read the Documentation
 In order for this connector to be useful, there are a few workarounds and solutions to common problems you may face, in the documents provided above. Please read it, and feel free to contact me in case you need any help.

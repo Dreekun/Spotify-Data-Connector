@@ -36,4 +36,4 @@ This is a very simple report with a built-in Data Model, with all queries availa
 
 
 ## Step 6: Read the Documentation
-In order for this connector to be useful, there are a few workarounds and solutions to common problems you may face, in the documents provided above. Please read it, and feel free to contact me in case you need any help.
+In order for this connector to be useful, there are a few workarounds and solutions to common problems you may face in the documents provided above. Please read it, and feel free to contact me in case you need any help.

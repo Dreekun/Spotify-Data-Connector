@@ -19,6 +19,8 @@ Here is a quick tutorial on how to set this up for you (a more detailed tutorial
 ## Step 1: Creating your own Spotify Application
 To be able to use this connector, you have to authenticate to https://developer.spotify.com/dashboard/ and create your own application. This will generate you a **client_id** and a **client_secret**. Next, on the dashboard page, under Edit Settings, you need to enter the following redirect_uris:
 
+![redirect_uri](https://user-images.githubusercontent.com/34665357/70648011-1c832f00-1c42-11ea-96cc-017bd348b1ad.png)
+
 ## Step 2: Change some Power BI settings
 You need to Start Power BI Desktop, go to Settings:
 - Select **Security**, and under **Data Extensions**, check **Allow any extension to load without validation or warning**

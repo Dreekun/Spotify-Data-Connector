@@ -24,6 +24,7 @@ To be able to use this connector, you have to authenticate to https://developer.
 - https://preview.oauth.powerbi.com/views/oauthredirect.html
 
 It should be like this:
+
 ![redirect_uri](https://user-images.githubusercontent.com/34665357/70648011-1c832f00-1c42-11ea-96cc-017bd348b1ad.png)
 
 ## Step 2: Download the connector and Modify the Credentials.json file

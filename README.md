@@ -11,8 +11,9 @@ What you can download:
 
 What is this for:
 The Spotify Data Connector for PBI allows you to access to your Streaming History details, such as:
-  
- ![navigatorMaisRecente](https://user-images.githubusercontent.com/34665357/70452197-9f6b8480-1a9e-11ea-91c9-ff2709634ec9.png)
+
+![navigator_recente](https://user-images.githubusercontent.com/34665357/97598308-b7bdf800-19fe-11eb-8001-5f76a246384b.PNG)
+
  
 Here is a quick tutorial on how to set this up for you (a more detailed tutorial can be found in Installation.pdf above):
 

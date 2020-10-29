@@ -44,7 +44,7 @@ This is a very simple report with a built-in Data Model, with all queries availa
 It also has some code for you to be able to dynamically write the records to a SQL database. More details on this process on the documentation files.
 
 Example 1: Listening history.
-![report I](https://user-images.githubusercontent.com/34665357/70461416-823fb180-1ab0-11ea-95a1-b63586c5a4fb.png)
+![listening_history_1](https://user-images.githubusercontent.com/34665357/97619127-bd740780-1a17-11eb-93ca-20f6a4b661e8.PNG)
 
 Example 2: Album history
 ![report II](https://user-images.githubusercontent.com/34665357/70930684-ac9fea80-202d-11ea-915e-5d2e7f8d8984.png)

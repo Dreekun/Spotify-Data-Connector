@@ -50,7 +50,7 @@ Example 2: Album history
 ![report II](https://user-images.githubusercontent.com/34665357/70930684-ac9fea80-202d-11ea-915e-5d2e7f8d8984.png)
 
 ## Step 6: Go get some historic data
-One pretty cool thing that spotify provides for its users is 2 years of historic data. All you have to do is go to your profile and ask for it. More details about it can be found on this blogpost: https://www.linkedin.com/pulse/working-json-data-power-bi-spotify-example-zach-renwick/
+One pretty cool thing that spotify provides for its users is 2 years of historic data in json format. All you have to do is go to your profile on www.spotify.com, click on "Account", and then go to your privacy settings. Scroll down until you see "Download your data, then click on "Request".
 It takes a few days for the data to be sent. When it does, you'll want to import it to a database. More details about this can be found on the documentation. 
 
 ## Step 7: Setup a SQL database to store your data when you refresh the dataset
